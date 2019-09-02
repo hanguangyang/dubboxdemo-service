@@ -8,7 +8,8 @@ import cn.itcast.dubbodemo.service.UserService;
 public class UserServiceImpl implements UserService {
 
 	@Override
-	public String getName() {		
+	public String getName() {
+		System.out.println("right");
 		return "itcast";
 	}
 
