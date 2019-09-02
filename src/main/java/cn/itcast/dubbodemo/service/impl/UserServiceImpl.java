@@ -12,6 +12,7 @@ public class UserServiceImpl implements UserService {
 		System.out.println("right");
 		System.out.println("left");
 		System.out.println("hot fix");
+		System.out.println("hot fix2");
 		return "itcast";
 	}
 
