@@ -11,6 +11,7 @@ public class UserServiceImpl implements UserService {
 	public String getName() {
 		System.out.println("right");
 		System.out.println("left");
+		System.out.println("hot fix");
 		return "itcast";
 	}
 
